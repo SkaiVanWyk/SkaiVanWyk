@@ -35,5 +35,5 @@ I am actively taking on freelance projects to sharpen my skills, solve real busi
 
 ### 📊 GitHub Stats
 
-![Skai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkaiVanWyk&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkaiVanWyk&layout=compact&theme=radical)
+![Skai's GitHub Stats](https://github-stats-extended.vercel.app/api?username=SkaiVanWyk&show_icons=true&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SkaiVanWyk&layout=compact&theme=radical)
