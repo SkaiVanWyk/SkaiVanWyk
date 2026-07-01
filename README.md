@@ -29,7 +29,7 @@ I am actively taking on freelance projects to sharpen my skills, solve real busi
 
 * 🤝 **I’m open to:** Collaboration on web design, frontend development, and MVP app builds.
 * 💬 **Ask me about:** Why UI/UX matters, math puzzles, or game mechanics.
-* 📫 **How to reach me:** `vanwykskai@gmail.com` or connect on [LinkedIn](https://linkedin.com/in/yourprofile)
+* 📫 **How to reach me:** `vanwykskai@gmail.com` or connect on [LinkedIn](https://linkedin.com/in/www.linkedin.com/in/skai-van-wyk-8aa83b2b5)
 
 ---
 
