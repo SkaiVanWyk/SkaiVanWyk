@@ -7,6 +7,7 @@ I am a **Second-Year Computer Science & Mathematics student** with a passion for
 ### 🚀 What I Do
 * **Front-End & Web Design:** Crafting intuitive, responsive, and visually striking user interfaces.
 * **App Development:** Building seamless experiences across Mobile, Desktop, and Web platforms.
+* **Business Automation:** Creating Automated Cloud-Synced Invoicing & Delivery Note Systems
 * **Game Design:** Exploring interactive storytelling, mechanics, and game logic.
 * **The Math Advantage:** Leveraging my mathematics background to write clean algorithms and optimize performance.
 
