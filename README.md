@@ -17,10 +17,10 @@ I am a **Second-Year Computer Science & Mathematics student** with a passion for
 
 | Category | Technologies |
 | :--- | :--- |
-| **Front-End & Design** | HTML5, CSS3, JavaScript, React, Tailwind CSS, Figma |
+| **Front-End & Design** | HTML5, CSS3, JavaScript, React |
 | **Languages & Math** | Python, Java, C++, MATLAB |
 | **Backend & Databases** | Supabase |
-| **App & Game Dev** | Flutter / React Native, Unity |
+| **App & Game Dev** | Unity |
 | **Tools & Systems** | Git, GitHub, VS Code |
 
 ---
