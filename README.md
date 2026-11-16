@@ -20,8 +20,8 @@ I am a **Second-Year Computer Science & Mathematics student** with a passion for
 | **Front-End & Design** | HTML5, CSS3, JavaScript, React |
 | **Languages & Math** | Python, Java, C++, MATLAB |
 | **Backend & Databases** | Supabase |
-| **App & Game Dev** | Unity |
-| **Tools & Systems** | Git, GitHub, VS Code |
+| **App & Game Dev** | Unreal Engine, Flutter, Dart |
+| **Tools & Systems** | Git, GitHub, VS Code, Windsurf |
 
 ---
 
